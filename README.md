@@ -4,7 +4,8 @@ The goal is to create a complete, user-friendly Movie Database Management System
 **Business Activity:**  A vast amount of information on films, actors, directors, producers, and genres is produced by the huge and dynamic film business. Efficient management and accessibility of this data is critical for multiple stakeholders, such as film buffs looking for amusement and knowledge, academics undertaking study, and business executives making well-informed choices.
 
 A well-developed movie database has been established, including an extensive collection of movie-related data. This vast database offers information about films, actors, directors, genres, and awards. It was created to comply with industry standards, making use of strong data management strategies to guarantee its precision and usability. It is anticipated that the database would be a useful tool for scholars, film enthusiasts, and business professionals alike. 
-    **Key Highlights**: 
+    
+   **Key Highlights**: 
 •	The database contains an immense amount of movie-related information, such as titles, release dates, cast bios, genre classifications, awards, and streaming platforms.
 •	The relational data model used by the database ensures data integrity and makes efficient data retrieval possible. 
 •	The database has user authentication and authorization systems in place to protect sensitive data, and it complies with data normalization principles to minimize redundancy and improve consistency. 
